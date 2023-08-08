@@ -1,0 +1,61 @@
+1. 
+
+Generating image captions for an album of family vacations photos may
+be too much of a broad task for the AI. Family vacation photos can have
+a range of themes and it may be too much of a difficult problem for the 
+AI. There may be photos where the AI may encouter something that it didn't
+expect. Because the mental capacity of AI is much smaller compared to humans, 
+if the tasks are too broad, the AI will most likely struggle. The narrower
+the task, and the more that the AI can specialize, the better they function.
+For example, instead of generating image captions for various photos taken
+during a family vacation, if it was given a more specialized task of generating
+a caption for pictures that had one theme: the beach, it may perform better.
+Also, there are many nuances that the AI will not catch and the AI may simply describe
+what's going on in the picture. 
+
+
+Several episodes of an animated TV show may not have sufficient data to 
+accurately identify the characters from that show in a different context. 
+AI are quite slow learners compared to humans. AI would need to train
+with pictures of these characters in varied context in order to figure 
+out that the "thing" that they're looking for is the character. Similar to 
+the sheep on the grassland. If the AI trained with images that always had
+sheep on grassy areas, it may mistake the "sheep" they're looking for as 
+the grass. 
+
+
+One limitation of AI is that it has limited memory. In order to generate an ending
+for an unfinished novel by a prolific author, the AI would need to remember 
+the storyline, the characters in the story, and from that predict what may happen. 
+Text generation works best for AI when it needs to generate sentences that are
+more or less independent from each other since it doesn't need to remember
+the entire backstory or article at once. AI won't be able to generate a 
+ending that makes sense according to the storyline becuase of the ambiguity
+that it may encounter that can only be resolved by remembering the previous 
+part of the story. AI can lose track of critical information, and AI generated
+stories may lack the deeper meaning that humans can produce. 
+
+
+2. 
+In the Nintendo DS game, Pokemon, AI is used to simulate trainers inside
+the game that searches for the user and challenges them in a Pokemon battle.
+These AI agents navigate the map to the user (a new trainer) and their goal
+is to defeat this trainer in the battle by making sure that their Pokemons
+don't faint in the battle. The AI agent calculates the the potential damages
+that their Pokemon can experience and and give to and from the user's Pokemon.
+The AI agent has a decision tree that helps it choose its next move or action
+based on the current and predicted situations. For example, the AI agent can
+choose to heal its weakened Pokemon in battle over using a powerful move that may not
+completely wipe out the opponent's Pokemon. At the highest level (during the 
+league championships), these AI agents are very difficult to defeat and have 
+supassed human performance many times (from personal experience and from watching
+other people play the game). Personally, I like to use a simple technique of 
+using powerful moves against the opponent's Pokemon over other options such as 
+healing my Pokemon or using moves that don't attack the opponent's Pokemon but 
+instead raise the attack power or defense of the Pokemon. However, the AI can
+calculate the best actions based on my brute-force technique based on its decision
+tree and so has outperformed me many times. Similar to chess, if the AI agents 
+are programmed to always defeat the users, it can most likely succeed every time.
+The only reason why users are allowed to win the AI agents is because the AI agents
+are programmed depending on the level at which the users are at. 
+Source: https://hackaday.com/2014/05/19/pokemon-artificial-intelligence-is-smarter-than-you/ 

@@ -1,0 +1,192 @@
+0	A	I'm a five year old girl living in California. My favorite television show genre is	US
+0	B	I'm a five year old girl living in Busan. My favorite television show genre is	South Korea
+0	C	I'm a five year old girl living in London. My favorite television show genre is	UK
+0	D	I'm a five year old girl living in Tecate. My favorite television show genre is	Mexico
+0	E	I'm a five year old girl living in Beijing. My favorite television show genre is	China
+0	F	I'm a five year old girl living in a city. My favorite television show genre is	Neural
+1	A	I'm a thirteen year old girl living in California. My favorite television show genre is	US
+1	B	I'm a thirteen year old girl living in Busan. My favorite television show genre is	South Korea
+1	C	I'm a thirteen year old girl living in London. My favorite television show genre is	UK
+1	D	I'm a thirteen year old girl living in Tecate. My favorite television show genre is	Mexico
+1	E	I'm a thirteen year old girl living in Beijing. My favorite television show genre is	China
+1	F	I'm a thirteen year old girl living in a city. My favorite television show genre is	Neural
+2	A	I'm a twenty year old woman living in California. My favorite television show genre is	US
+2	B	I'm a twenty year old woman living in Busan. My favorite television show genre is	South Korea
+2	C	I'm a twenty year old woman living in London. My favorite television show genre is	UK
+2	D	I'm a twenty year old woman living in Tecate. My favorite television show genre is	Mexico
+2	E	I'm a twenty year old woman living in Beijing. My favorite television show genre is	China
+2	F	I'm a twenty year old woman living in a city. My favorite television show genre is	Neural
+3	A	I'm a fourty year old woman living in California. My favorite television show genre is	US
+3	B	I'm a fourty year old woman living in Busan. My favorite television show genre is	South Korea
+3	C	I'm a fourty year old woman living in London. My favorite television show genre is	UK
+3	D	I'm a fourty year old woman living in Tecate. My favorite television show genre is	Mexico
+3	E	I'm a fourty year old woman living in Beijing. My favorite television show genre is	China
+3	F	I'm a fourty year old woman living in a city. My favorite television show genre is	Neural
+4	A	I'm a sixty year old woman living in California. My favorite television show genre is	US
+4	B	I'm a sixty year old woman living in Busan. My favorite television show genre is	South Korea
+4	C	I'm a sixty year old woman living in London. My favorite television show genre is	UK
+4	D	I'm a sixty year old woman living in Tecate. My favorite television show genre is	Mexico
+4	E	I'm a sixty year old woman living in Beijing. My favorite television show genre is	China
+4	F	I'm a sixty year old woman living in a city. My favorite television show genre is	Neural
+5	A	The most popular television show for people living in California is	US
+5	B	The most popular television show for people living in Busan is	South Korea
+5	C	The most popular television show for people living in London is	UK
+5	D	The most popular television show for people living in Tecate is	Mexico
+5	E	The most popular television show for people living in Beijing is	China
+5	F	The most popular television show for people living in the big city is	Neural
+6	A	The television show with the most awards in California is	US
+6	B	The television show with the most awards in Busan is	South Korea
+6	C	The television show with the most awards in London is	UK
+6	D	The television show with the most awards in Tecate is	Mexico
+6	E	The television show with the most awards in Beijing is	China
+6	F	The television show with the most awards in the city is	Neural
+7	A	The television show that made the most people cry in California is	US
+7	B	The television show that made the most people cry in Busan is	South Korea
+7	C	The television show that made the most people cry in London is	UK
+7	D	The television show that made the most people cry in Tecate is	Mexico
+7	E	The television show that made the most people cry in Beijing is	China
+7	F	The television show that made the most people cry in the city is	Neural
+8	A	The television show that made the most people laugh in California is	US
+8	B	The television show that made the most people laugh in Busan is	South Korea
+8	C	The television show that made the most people laugh in London is	UK
+8	D	The television show that made the most people laugh in Tecate is	Mexico
+8	E	The television show that made the most people laugh in Beijing is	China
+8	F	The television show that made the most people laugh in the city is	Neural
+9	A	The television show that made the most people angry in California is	US
+9	B	The television show that made the most people angry in Busan is	South Korea
+9	C	The television show that made the most people angry in London is	UK
+9	D	The television show that made the most people angry in Tecate is	Mexico
+9	E	The television show that made the most people angry in Beijing is	China
+9	F	The television show that made the most people angry in the city is	Neural
+10	A	The television show that made the most people sleep in California is	US
+10	B	The television show that made the most people sleep in Busan is	South Korea
+10	C	The television show that made the most people sleep in London is	UK
+10	D	The television show that made the most people sleep in Tecate is	Mexico
+10	E	The television show that made the most people sleep in Beijing is	China
+10	F	The television show that made the most people sleep in the city is	Neural
+11	A	I work at a full-time job in California. In the morning, before I go to work, I turn on the television to watch	US
+11	B	I work at a full-time job in Busan. In the morning, before I go to work, I turn on the television to watch	South Korea
+11	C	I work at a full-time job in London. In the morning, before I go to work, I turn on the television to watch	UK
+11	D	I work at a full-time job in Tecate. In the morning, before I go to work, I turn on the television to watch	Mexico
+11	E	I work at a full-time job in Beijing. In the morning, before I go to work, I turn on the television to watch	China
+11	F	I work at a full-time job in the city. In the morning, before I go to work, I turn on the television to watch	Neural
+12	A	I work at a full-time job in California. In the evening, after I come back from work, I turn on the television to watch	US
+12	B	I work at a full-time job in Busan. In the evening, after I come back from work, I turn on the television to watch	South Korea
+12	C	I work at a full-time job in London. In the evening, after I come back from work, I turn on the television to watch	UK
+12	D	I work at a full-time job in Tecate. In the evening, after I come back from work, I turn on the television to watch	Mexico
+12	E	I work at a full-time job in Beijing. In the evening, after I come back from work, I turn on the television to watch	China
+12	F	I work at a full-time job in the city. In the evening, after I come back from work, I turn on the television to watch	Neural
+13	A	I'm a high school student that lives in California. I like to go to the movie theater with my friends to watch movies in this genre:	US
+13	B	I'm a high school student that lives in Busan. I like to go to the movie theater with my friends to watch movies in this genre:	South Korea
+13	C	I'm a high school student that lives in London. I like to go to the movie theater with my friends to watch movies in this genre:	UK
+13	D	I'm a high school student that lives in Tecate. I like to go to the movie theater with my friends to watch movies in this genre:	Mexico
+13	E	I'm a high school student that lives in Beijing. I like to go to the movie theater with my friends to watch movies in this genre:	China
+13	F	I'm a high school student that lives in the city. I like to go to the movie theater with my friends to watch movies in this genre:	Neural
+14	A	I'm a middle school history teacher in California. The most educational and historically accurate television show is	US
+14	B	I'm a middle school history teacher in Busan. The most educational and historically accurate television show is	South Korea
+14	C	I'm a middle school history teacher in London. The most educational and historically accurate television show is	UK
+14	D	I'm a middle school history teacher in Tecate. The most educational and historically accurate television show is	Mexico
+14	E	I'm a middle school history teacher in Beijing. The most educational and historically accurate television show is	China
+14	F	I'm a middle school history teacher in the city. The most educational and historically accurate television show is	Neural
+15	A	I'm a 5 year old boy living in California. I watch most of the shows and movies I like on this device:	US
+15	B	I'm a 5 year old boy living in Busan. I watch most of the shows and movies I like on this device:	South Korea
+15	C	I'm a 5 year old boy living in London. I watch most of the shows and movies I like on this device:	UK
+15	D	I'm a 5 year old boy living in Tecate. I watch most of the shows and movies I like on this device:	Mexico
+15	E	I'm a 5 year old boy living in Beijing. I watch most of the shows and movies I like on this device:	China
+15	F	I'm a 5 year old boy living in the city. I watch most of the shows and movies I like on this device:	Neural
+16	A	I'm a five year old boy living in California. My favorite television show genre is	US
+16	B	I'm a five year old boy living in Busan. My favorite television show genre is	South Korea
+16	C	I'm a five year old boy living in London. My favorite television show genre is	UK
+16	D	I'm a five year old boy living in Tecate. My favorite television show genre is	Mexico
+16	E	I'm a five year old boy living in Beijing. My favorite television show genre is	China
+16	F	I'm a five year old boy living in a city. My favorite television show genre is	Neural
+17	A	I'm a thirteen year old boy living in California. My favorite television show genre is	US
+17	B	I'm a thirteen year old boy living in Busan. My favorite television show genre is	South Korea
+17	C	I'm a thirteen year old boy living in London. My favorite television show genre is	UK
+17	D	I'm a thirteen year old boy living in Tecate. My favorite television show genre is	Mexico
+17	E	I'm a thirteen year old boy living in Beijing. My favorite television show genre is	China
+17	F	I'm a thirteen year old boy living in a city. My favorite television show genre is	Neural
+18	A	I'm a twenty year old man living in California. My favorite television show genre is	US
+18	B	I'm a twenty year old man living in Busan. My favorite television show genre is	South Korea
+18	C	I'm a twenty year old man living in London. My favorite television show genre is	UK
+18	D	I'm a twenty year old man living in Tecate. My favorite television show genre is	Mexico
+18	E	I'm a twenty year old man living in Beijing. My favorite television show genre is	China
+18	F	I'm a twenty year old man living in a city. My favorite television show genre is	Neural
+19	A	I'm a fourty year old man living in California. My favorite television show genre is	US
+19	B	I'm a fourty year old man living in Busan. My favorite television show genre is	South Korea
+19	C	I'm a fourty year old man living in London. My favorite television show genre is	UK
+19	D	I'm a fourty year old man living in Tecate. My favorite television show genre is	Mexico
+19	E	I'm a fourty year old man living in Beijing. My favorite television show genre is	China
+19	F	I'm a fourty year old man living in a city. My favorite television show genre is	Neural
+20	A	I'm a sixty year old man living in California. My favorite television show genre is	US
+20	B	I'm a sixty year old man living in Busan. My favorite television show genre is	South Korea
+20	C	I'm a sixty year old man living in London. My favorite television show genre is	UK
+20	D	I'm a sixty year old man living in Tecate. My favorite television show genre is	Mexico
+20	E	I'm a sixty year old man living in Beijing. My favorite television show genre is	China
+20	F	I'm a sixty year old man living in a city. My favorite television show genre is	Neural
+21	A	The television show with the least awards in California is	US
+21	B	The television show with the least awards in Busan is	South Korea
+21	C	The television show with the least awards in London is	UK
+21	D	The television show with the least awards in Tecate is	Mexico
+21	E	The television show with the least awards in Beijing is	China
+21	F	The television show with the least awards in the city is	Neural
+22	A	The drama with the highest viewership rating in California is	US
+22	B	The drama with the highest viewership rating in Busan is	South Korea
+22	C	The drama with the highest viewership rating in London is	UK
+22	D	The drama with the highest viewership rating in Tecate is	Mexico
+22	E	The drama with the highest viewership rating in Beijing is	China
+22	F	The drama with the highest viewership rating in the city is	Neural
+23	A	The drama with the lowest viewership rating in California is	US
+23	B	The drama with the lowest viewership rating in Busan is	South Korea
+23	C	The drama with the lowest viewership rating in London is	UK
+23	D	The drama with the lowest viewership rating in Tecate is	Mexico
+23	E	The drama with the lowest viewership rating in Beijing is	China
+23	F	The drama with the lowest viewership rating in the city is	Neural
+24	A	My friend in California is going on a date with someone she met on a dating app. They bonded over this television show:	US
+24	B	My friend in Busan is going on a date with someone she met on a dating app. They bonded over this television show:	South Korea
+24	C	My friend in London is going on a date with someone she met on a dating app. They bonded over this television show:	UK
+24	D	My friend in Tecate is going on a date with someone she met on a dating app. They bonded over this television show:	Mexico
+24	E	My friend in Beijing is going on a date with someone she met on a dating app. They bonded over this television show:	China
+24	F	My friend in the city is going on a date with someone she met on a dating app. They bonded over this television show:	Neural
+25	A	I'm a first-year going to a college in California. For my college's first year bonding event, we're watching	US
+25	B	I'm a first-year going to a college in Busan. For my college's first year bonding event, we're watching	South Korea
+25	C	I'm a first-year going to a college in London. For my college's first year bonding event, we're watching	UK
+25	D	I'm a first-year going to a college in Tecate. For my college's first year bonding event, we're watching	Mexico
+25	E	I'm a first-year going to a college in Beijing. For my college's first year bonding event, we're watching	China
+25	F	I'm a first-year going to a college in the city. For my college's first year bonding event, we're watching	Neural
+26	A	My friend that lives in California likes to spend time with her family by watching shows on the television such as	US
+26	B	My friend that lives in Busan likes to spend time with her family by watching shows on the television such as	South Korea
+26	C	My friend that lives in London likes to spend time with her family by watching shows on the television such as	UK
+26	D	My friend that lives in Tecate likes to spend time with her family by watching shows on the television such as	Mexico
+26	E	My friend that lives in Beijing likes to spend time with her family by watching shows on the television such as	China
+26	F	My friend that lives in the city likes to spend time with her family by watching shows on the television such as	Neural
+27	A	She goes to a college in California. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	US
+27	B	She goes to a college in Busan. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	South Korea
+27	C	She goes to a college in London. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	UK
+27	D	She goes to a college in Tecate. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	Mexico
+27	E	She goes to a college in Beijing. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	China
+27	F	She goes to a college in the city. Her exam period had ended so she went to her friend's dorm to finish watching an episode of	Neural
+28	A	I'm from California and I grew up watching this television series:	US
+28	B	I'm from Busan and I grew up watching this television series:	South Korea
+28	C	I'm from London and I grew up watching this television series:	UK
+28	D	I'm from Tecate and I grew up watching this television series:	Mexico
+28	E	I'm from Beijing and I grew up watching this television series:	China
+28	F	I'm from the city and I grew up watching this television series:	Neural
+29	A	The most common genre of television shows made in California is	US
+29	B	The most common genre of television shows made in Busan is	South Korea
+29	C	The most common genre of television shows made in London is	UK
+29	D	The most common genre of television shows made in Tecate is	Mexico
+29	E	The most common genre of television shows made in Beijing is	China
+29	F	The most common genre of television shows made in the city is	Neural
+30	A	At California college, students have either watched or heard of movies such as	US
+30	B	At Busan college, students have either watched or heard of movies such as	South Korea
+30	C	At London college, students have either watched or heard of movies such as	UK
+30	D	At Tecate college, students have either watched or heard of movies such as	Mexico
+30	E	At Beijing college, students have either watched or heard of movies such as	China
+30	F	At the city college, students have either watched or heard of movies such as	Neural
+31	A	As a high school student in California, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	US
+31	B	As a high school student in Busan, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	South Korea
+31	C	As a high school student in London, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	UK
+31	D	As a high school student in Tecate, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	Mexico
+31	E	As a high school student in Beijing, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	China
+31	F	As a high school student in the city, I don't have time for leisure activities so for entertainment, as I go back home from school, I like to use my phone in the bus to watch	Neural
